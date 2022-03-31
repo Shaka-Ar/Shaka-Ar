@@ -15,11 +15,13 @@ A joyful **Architect**, in love with automation. <br>
 <div>
   <em>Advanced Knowledge:</em>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" title="AutoCAD" height="30px" width="100px">
+  <br>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/autocad.svg" title="AutoCAD" height="40px" width="40px">
 </div>
 <br>
 <div>
   <em>Basic Knowledge:</em>
+  <br>
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" title="Lisp (AutoCAD)" height="30px" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="30px" width="30px">
@@ -29,6 +31,7 @@ A joyful **Architect**, in love with automation. <br>
 <br>
 <div>
   <em>Currently learning:</em>
+  <br>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" height="30px" width="30px">
 </div>
