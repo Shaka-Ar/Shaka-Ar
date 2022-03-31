@@ -6,23 +6,30 @@ I'm **Hugo**!
 ### 🖖 Profession:
  
 A joyful **Architect**, in love with automation. <br>
-*Coding as a hobbie.*
+*Coding as a hobby.*
 
 ---
 
 ### 🌱 I'm a work in progress:
-<em>Basic Knowledge:</em>
+
+<div>
+  <em>Advanced Knowledge:</em>
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" title="AutoCAD" height="30px" width="100px">
+</div>
 <br>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="30px" width="30px">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" height="30px" width="30px">&nbsp;
+  <em>Basic Knowledge:</em>
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" title="Lisp (AutoCAD)" height="30px" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="30px" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" height="30px" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" height="30px" width="30px">
 </div>
 <br>
-
-<em>Currently learning:</em>
-<br>
 <div>
+  <em>Currently learning:</em>
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" height="30px" width="30px">
 </div>
 
